@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\yendi\source\repos\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\yendi\source\repos\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\yendi\source\repos\CapStone\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\yendi\source\repos\CapStone\CapStone\obj\Debug\CapStone.pdb
